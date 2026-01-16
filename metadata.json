@@ -1,0 +1,5 @@
+{
+  "name": "Profesor.exe: Aventura Docente",
+  "description": "Una aventura conversacional donde eres un profesor de CS intentando sobrevivir al semestre y motivar a tus alumnos.",
+  "requestFramePermissions": []
+}
